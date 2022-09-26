@@ -1,0 +1,32 @@
+body { 
+       background-color : #B6D0E2;
+}
+
+
+h2 { 
+     color: hot pink;
+ }
+
+p { 
+    color : black;
+ }
+
+#ID1 { 
+    color : purple;
+    font-weight: bold;
+}
+
+.class1 { 
+    color : green;
+ }
+
+#aID:hover { 
+    color : red;
+    font-size: 150%;
+ }
+
+div { 
+    border-style: solid;
+    border-width : 2px;
+    padding : 3px;
+ }
